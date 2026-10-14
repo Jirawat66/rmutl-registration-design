@@ -1,0 +1,110 @@
+[
+  {
+    "collection": "Collection",
+    "mode": "Mode 1",
+    "variables": {
+      "Email complete": {
+        "$type": "boolean",
+        "$description": "",
+        "$extensions": {
+          "figma": {
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "resolvedType": "BOOLEAN"
+          }
+        },
+        "$value": false
+      },
+      "Colour complete": {
+        "$type": "boolean",
+        "$description": "",
+        "$extensions": {
+          "figma": {
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "resolvedType": "BOOLEAN"
+          }
+        },
+        "$value": false
+      },
+      "Form error": {
+        "$type": "boolean",
+        "$description": "",
+        "$extensions": {
+          "figma": {
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "resolvedType": "BOOLEAN"
+          }
+        },
+        "$value": false
+      }
+    }
+  },
+  {
+    "collection": "Collection 2",
+    "mode": "Mode 1",
+    "variables": {}
+  },
+  {
+    "collection": "Login Prototype",
+    "mode": "Mode 1",
+    "variables": {
+      "accountFilled": {
+        "$type": "boolean",
+        "$description": "",
+        "$extensions": {
+          "figma": {
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "resolvedType": "BOOLEAN"
+          }
+        },
+        "$value": false
+      },
+      "passwordFilled": {
+        "$type": "boolean",
+        "$description": "",
+        "$extensions": {
+          "figma": {
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "resolvedType": "BOOLEAN"
+          }
+        },
+        "$value": false
+      },
+      "loginLocked": {
+        "$type": "boolean",
+        "$description": "",
+        "$extensions": {
+          "figma": {
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "resolvedType": "BOOLEAN"
+          }
+        },
+        "$value": true
+      },
+      "loginError": {
+        "$type": "boolean",
+        "$description": "",
+        "$extensions": {
+          "figma": {
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "resolvedType": "BOOLEAN"
+          }
+        },
+        "$value": false
+      }
+    }
+  }
+]

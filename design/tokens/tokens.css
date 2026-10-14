@@ -1,0 +1,87 @@
+/* Design tokens — RMUTL Registration System
+   Generated from tokens.json (source: Figma Styles). Do not hard-code values; use these variables. */
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Colors */
+  /* brand */
+  --color-brand-primary: #D4AF37;  /* primary */
+  --color-brand-primary-dark: #B48F2F;  /* primary/dark */
+  --color-brand-secondary: #E5B143;  /* secondary */
+  --color-brand-accent: #AD5926;  /* 'logo select */
+  --color-brand-logo: #D4AF37;  /* logo */
+  /* button */
+  --color-button-default: #ECA40C;  /* button */
+  --color-button-pressed: rgba(176, 93, 11, 0.90);  /* button on click */
+  /* background */
+  --color-background-default: #FEF5D1;  /* bg02 */
+  --color-background-subtle: #FDF7EB;  /* พื้นหลังหัวข้อ */
+  /* surface */
+  --color-surface-white: #FFFFFF;  /* surface/white */
+  --color-surface-highlight: #FFE3AE;  /* surface/highlight */
+  /* text */
+  --color-text-primary: #000000;  /* body text */
+  --color-text-heading: #AD5926;  /* h2 */
+  --color-text-heading-home: #000000;  /* h2 หน้าแรก */
+  --color-text-on-primary: #FFFFFF;  /* h1 */
+  --color-text-subheading: #B48B3D;  /* subheading */
+  --color-text-secondary: #64748B;  /* description */
+  --color-text-disabled: #94A3B8;  /* text/disabled */
+  /* border */
+  --color-border-default: #A67C52;  /* สีขอบ */
+  --color-border-gold: #C6AA38;  /* สีขอบทอง */
+  --color-border-light: #F3ECDE;  /* สีขอบอ่อน */
+  /* neutral */
+  --color-neutral-light: #F1F1F1;  /* neutral/light */
+  --color-neutral-disabled: #D1D1D1;  /* neutral/disabled */
+  --color-neutral-muted: #A8A8A8;  /* neutral/muted */
+  /* status */
+  --color-status-success: #82C139;  /* success */
+  --color-status-warning: #E6CF1F;  /* warning */
+  --color-status-danger: #BD1414;  /* error */
+  --color-status-danger-light: #FFD0D0;  /* error/light */
+  --color-status-locked: #2563EB;  /* lock */
+
+  /* Gradients */
+  --gradient-header: linear-gradient(137.11deg, #9C792F 0%, #F6BE48 100%);
+  --gradient-button: linear-gradient(316.47deg, #9C792F 0%, #F6BE48 100%);
+
+  /* Typography — shorthand: weight size/line-height family */
+  --font-base: 'Lexend', 'Noto Sans Thai', sans-serif;
+  --text-h1: 700 18px/21.6px var(--font-base);
+  --text-h2: 600 16px/19.2px var(--font-base);
+  --text-h3: 500 14px/20px var(--font-base);
+  --text-body-text: 400 16px/20px var(--font-base);
+  --text-subheading: 400 14px/20px var(--font-base);
+  --text-description: 400 14px/16.8px var(--font-base);
+  --text-button: 500 16px/19.2px var(--font-base);
+  --text-body-medium: 500 16px/19.2px var(--font-base);
+  --text-display-20: 500 20px/24px var(--font-base);
+  --text-display-24: 600 24px/28.8px var(--font-base);
+  --text-title-16-bold: 700 16px/19.2px var(--font-base);
+  --text-label-14-semibold: 600 14px/16.8px var(--font-base);
+  --text-label-13-semibold: 600 13px/15.6px var(--font-base);
+  --text-caption-12-medium: 500 12px/14.4px var(--font-base);
+  --text-caption-12-regular: 400 12px/14.4px var(--font-base);
+  --text-small-11-medium: 500 11px/13.2px var(--font-base);
+  --text-small-11-regular: 400 11px/13.2px var(--font-base);
+  --text-tiny-10-medium: 500 10px/12px var(--font-base);
+  --text-tiny-10-bold: 700 10px/12px var(--font-base);
+
+  /* Spacing — 8pt grid */
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-5: 40px;
+  --space-6: 48px;
+
+  /* Radius */
+  --radius-button: 8px;
+
+  /* Grid (375 frame) */
+  --grid-columns: 4;
+  --grid-column-width: 70px;
+  --grid-gutter: 16px;
+  --grid-gutter-popup: 5px;
+}

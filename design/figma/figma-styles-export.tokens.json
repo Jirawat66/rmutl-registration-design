@@ -1,0 +1,1894 @@
+{
+  "color": {
+    "bg02": {
+      "description": "",
+      "type": "color",
+      "value": "#fef5d1ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:8a94c329146b60848d676439c89451fe34aed66f,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "h1": {
+      "description": "",
+      "type": "color",
+      "value": "#ffffffff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:fd5a8b60534c1a0fa72ea8d0a4f41ac0e9b7dff9,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "h2": {
+      "description": "",
+      "type": "color",
+      "value": "#ad5926ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:ac002bc8ae426aa165c9c69e3381f31e242bd56a,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "h2 หน้าแรก": {
+      "description": "",
+      "type": "color",
+      "value": "#000000ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:ec7b329154a67275a32e325d73a9dfab92ca05f4,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "body text": {
+      "description": "",
+      "type": "color",
+      "value": "#000000ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:85dd35c96390e0a09b760fcdc4e380d07d499481,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "subheading": {
+      "description": "",
+      "type": "color",
+      "value": "#b48b3dff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:0abd5aa398a923c76fc9e5cf312fa8ee17a33116,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "description": {
+      "description": "",
+      "type": "color",
+      "value": "#64748bff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:3e95f7193f85b8063e4923c9e78c69e5d8a29455,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "logo": {
+      "description": "",
+      "type": "color",
+      "value": "#d4af37ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:916bae8782487d90dbe7ac37452f9f04cb317835,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "พื้นหลังหัวข้อ": {
+      "description": "",
+      "type": "color",
+      "value": "#fdf7ebff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:2f048fdbadde4ba0dae62c1ac24ee160d9ca8ae9,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "สีขอบ": {
+      "description": "",
+      "type": "color",
+      "value": "#a67c52ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:ccc2c5adc237ecd331d62e32f0a629d0bc8c48b8,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "success": {
+      "description": "",
+      "type": "color",
+      "value": "#82c139ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:b59945c292b503aab565a2392696f4d87b8f609f,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "warning": {
+      "description": "",
+      "type": "color",
+      "value": "#e6cf1fff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:b3c888bf1f902cbbd000c2617e453bbec2db3316,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "error": {
+      "description": "",
+      "type": "color",
+      "value": "#bd1414ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:2c2c79c5a507a94cd6ad87fa2107c2463eed31df,",
+          "exportKey": "color"
+        }
+      },
+      "light": {
+        "description": "พื้นหลังแจ้งข้อผิดพลาด",
+        "type": "color",
+        "value": "#ffd0d0ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:46121b22ce25734ec0b1f50c9f246ca0eff5172b,",
+            "exportKey": "color"
+          }
+        }
+      }
+    },
+    "'logo select": {
+      "description": "",
+      "type": "color",
+      "value": "#ad5926ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:ed86e8ea7042cabe69867893fc18abbebdaf5e79,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "lock": {
+      "description": "",
+      "type": "color",
+      "value": "#2563ebff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:e513f86bf8be2889ef8792c366fa9d15176717a9,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "button": {
+      "description": "",
+      "type": "color",
+      "value": "#eca40cff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:b5af27f042df4ba2daec7af1503885655fca3cca,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "button on click": {
+      "description": "",
+      "type": "color",
+      "value": "#b05d0be6",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:7c9ab38b95d5fe9a5d8d38ccb071c679ccba2fda,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "primary": {
+      "description": "สีหลัก (ตามเอกสาร DS)",
+      "type": "color",
+      "value": "#d4af37ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:421400518c0769285840c470dcdd73c92e84bcd9,",
+          "exportKey": "color"
+        }
+      },
+      "dark": {
+        "description": "ทองเข้ม สำหรับพื้นปุ่ม/แถบเน้น",
+        "type": "color",
+        "value": "#b48f2fff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:13ca630b3764da2de361321faaaa88172721fc6d,",
+            "exportKey": "color"
+          }
+        }
+      }
+    },
+    "secondary": {
+      "description": "สีรอง (ตามเอกสาร DS)",
+      "type": "color",
+      "value": "#e5b143ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:b21b5af948f9f670f69d84caddc8bfbf32acd142,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "สีขอบทอง": {
+      "description": "เส้นขอบสีทอง ใช้กับ Input Card Button Table",
+      "type": "color",
+      "value": "#c6aa38ff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:1b46a536d983973bc54cb19a64c1400650e513f7,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "สีขอบอ่อน": {
+      "description": "เส้นแบ่ง/ขอบสีอ่อน",
+      "type": "color",
+      "value": "#f3ecdeff",
+      "blendMode": "normal",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:977e3d4e965d76c7fac9004f7f41cb47ce2f5ef8,",
+          "exportKey": "color"
+        }
+      }
+    },
+    "surface": {
+      "white": {
+        "description": "พื้นการ์ด, กล่องข้อมูล, ช่องกรอก",
+        "type": "color",
+        "value": "#ffffffff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:57be1c983ca1a3cb62672b323b17562f5223a4c1,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "highlight": {
+        "description": "พื้นไฮไลต์สีเหลืองอ่อน เช่น แถวที่เลือก, ป้ายแจ้งเตือน",
+        "type": "color",
+        "value": "#ffe3aeff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:d80a1eb66a9f95d4283877672af5bba68450b8fc,",
+            "exportKey": "color"
+          }
+        }
+      }
+    },
+    "neutral": {
+      "light": {
+        "description": "พื้นเทาอ่อน, เส้นแบ่ง",
+        "type": "color",
+        "value": "#f1f1f1ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:48fa22ec8f5cbc38374560976bdebfdbd9c5293a,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "disabled": {
+        "description": "พื้นปุ่ม/ช่องที่ใช้งานไม่ได้",
+        "type": "color",
+        "value": "#d1d1d1ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:a9254eb0af7f1a9a775ba71d069a60e8fee63d91,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "muted": {
+        "description": "ไอคอน/องค์ประกอบสีเทา",
+        "type": "color",
+        "value": "#a8a8a8ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:8601424d02950a44e0e2c4eac70871ddff002fde,",
+            "exportKey": "color"
+          }
+        }
+      }
+    },
+    "text": {
+      "disabled": {
+        "description": "ข้อความ placeholder, ข้อความที่ใช้งานไม่ได้",
+        "type": "color",
+        "value": "#94a3b8ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ac907039d872e2b88fe94c6f647da32093dd654c,",
+            "exportKey": "color"
+          }
+        }
+      }
+    }
+  },
+  "gradient": {
+    "header gradient": {
+      "description": "แถบหัวหน้าจอ/ปุ่มสีทองไล่ระดับ",
+      "type": "custom-gradient",
+      "value": {
+        "gradientType": "linear",
+        "rotation": 137.11119550734364,
+        "stops": [
+          {
+            "position": 0,
+            "color": "#9c792fff"
+          },
+          {
+            "position": 1,
+            "color": "#f6be48ff"
+          }
+        ]
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:523e176727e24ecb4e636d01fc386c2db66aa659,",
+          "exportKey": "gradient"
+        }
+      }
+    },
+    "gold gradient": {
+      "button": {
+        "description": "ปุ่ม/แถบสีทองไล่ระดับ",
+        "type": "custom-gradient",
+        "value": {
+          "gradientType": "linear",
+          "rotation": 316.4664516602478,
+          "stops": [
+            {
+              "position": 0,
+              "color": "#9c792fff"
+            },
+            {
+              "position": 1,
+              "color": "#f6be48ff"
+            }
+          ]
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:f98075b37a495409dea08f6c746f49ca6ccd50d8,",
+            "exportKey": "gradient"
+          }
+        }
+      }
+    }
+  },
+  "grid": {
+    "main": {
+      "description": null,
+      "type": "custom-grid",
+      "value": {
+        "pattern": "columns",
+        "sectionSize": 70,
+        "gutterSize": 16,
+        "alignment": "center",
+        "count": 4
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:d310ab48f7ef53d6a97f073d47c608cd206858dd,",
+          "exportKey": "grid"
+        }
+      }
+    },
+    "popup": {
+      "description": null,
+      "type": "custom-grid",
+      "value": {
+        "pattern": "columns",
+        "sectionSize": 70,
+        "gutterSize": 5,
+        "alignment": "center",
+        "count": 4
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:eda8bb1a3d30eeb775135db99e2441bdbb3c1017,",
+          "exportKey": "grid"
+        }
+      }
+    }
+  },
+  "font": {
+    "h1": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 18,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 700,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 21.6,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:2a8986128c757463468ec475acbaddd85d51216b,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "h2": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 16,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 600,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 19.2,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:f431fec8ad6c5ba89c61fec7ad600f0db736e179,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "h3": {
+      "description": "เนื้อหา",
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 14,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 500,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 20,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:46f06a11463cf62a0fefc62be013117063d1107b,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "body-text": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 16,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 20,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:6c059d2035a0bcacacdb08a5ba41f52a792dd9b9,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "subheading": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 14,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 20,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:6c53d48f66a9905882dd9c837b8a1d2c2b235887,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "description": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 14,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 16.8,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:7d76bc5dd1142cc00ba3322a95a861d03a74bc95,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "ปุ่ม": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 16,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 500,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 19.2,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:4d86559fd19ab3273ba0e6aa3151ea78f46bbf8d,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "body-medium": {
+      "description": "เนื้อหาที่ต้องการเน้น (ตาม Body ในเอกสาร DS)",
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 16,
+        "textDecoration": "none",
+        "fontFamily": "Lexend",
+        "fontWeight": 500,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 19.2,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "styleId": "S:818173d7cf238cd1fdc6ad96ecff25da0e3eff26,",
+          "exportKey": "font"
+        }
+      }
+    },
+    "display": {
+      "20": {
+        "description": "หัวข้อบนแถบสีทอง, ข้อความเด่นในการ์ด",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 20,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 500,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 24,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:883ce0056f0c04e2b365e9c01cfccb97a3d15fd0,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "24": {
+        "description": "หัวข้อใหญ่ เช่น ตัวเลขสรุป, หัวข้อหน้าพิเศษ",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 24,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 600,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 28.8,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:0c864bfeb2821ea81e0acbbfb6c194416d0e4749,",
+            "exportKey": "font"
+          }
+        }
+      }
+    },
+    "title": {
+      "16 bold": {
+        "description": "หัวข้อการ์ด/หัวตาราง แบบหนา",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 16,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 19.2,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b94fcedbd1b15b968d53d18297351e20129967d1,",
+            "exportKey": "font"
+          }
+        }
+      }
+    },
+    "label": {
+      "14 semibold": {
+        "description": "ป้ายกำกับ, หัวคอลัมน์",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 14,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 600,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 16.8,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ca53498fdcb10f5126d748463227b7d558f17608,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "13 semibold": {
+        "description": "ป้ายกำกับขนาดเล็ก",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 13,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 600,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 15.6,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ee65118098aeb8ec18ba22cea232373fb9d7da53,",
+            "exportKey": "font"
+          }
+        }
+      }
+    },
+    "caption": {
+      "12 medium": {
+        "description": "คำอธิบายสั้น, แท็ก, ป้ายสถานะ",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 12,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 500,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 14.4,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:ff72a2a7fcdfbade41fa9826044726859f041e7e,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "12 regular": {
+        "description": "ข้อความช่วยเหลือ, ข้อความแจ้งข้อผิดพลาดใต้ช่องกรอก",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 12,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 400,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 14.4,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:b5afcfb53e12505327bc36c98be067fc731855d6,",
+            "exportKey": "font"
+          }
+        }
+      }
+    },
+    "small": {
+      "11 medium": {
+        "description": "ข้อมูลรองในตาราง",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 11,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 500,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 13.2,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:881a87790684278c9b34e58bce1bccf63bffc64b,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "11 regular": {
+        "description": "ข้อมูลรองในตาราง แบบปกติ",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 11,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 400,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 13.2,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:c1455bb63940b1a3159275046b7ddab24f9778bf,",
+            "exportKey": "font"
+          }
+        }
+      }
+    },
+    "tiny": {
+      "10 medium": {
+        "description": "ป้ายใต้ไอคอน, วันที่ในปฏิทิน",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 10,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 500,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 12,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:1d93b57c0795dd3b756e17573c27953fd2bfa3cb,",
+            "exportKey": "font"
+          }
+        }
+      },
+      "10 bold": {
+        "description": "ตัวเลข/ป้ายเล็กแบบหนา",
+        "type": "custom-fontStyle",
+        "value": {
+          "fontSize": 10,
+          "textDecoration": "none",
+          "fontFamily": "Lexend",
+          "fontWeight": 700,
+          "fontStyle": "normal",
+          "fontStretch": "normal",
+          "letterSpacing": 0,
+          "lineHeight": 12,
+          "paragraphIndent": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none"
+        },
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7b920363f7638f9202881cbb94bd5084e0e39d4d,",
+            "exportKey": "font"
+          }
+        }
+      }
+    }
+  },
+  "collection": {
+    "email complete": {
+      "type": "boolean",
+      "value": false,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "collection": "Collection",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "variableId": "VariableID:2589:5651",
+          "exportKey": "variables"
+        }
+      }
+    },
+    "colour complete": {
+      "type": "boolean",
+      "value": false,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "collection": "Collection",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "variableId": "VariableID:2589:5652",
+          "exportKey": "variables"
+        }
+      }
+    },
+    "form error": {
+      "type": "boolean",
+      "value": false,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "collection": "Collection",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "variableId": "VariableID:2589:5653",
+          "exportKey": "variables"
+        }
+      }
+    }
+  },
+  "login prototype": {
+    "accountfilled": {
+      "type": "boolean",
+      "value": false,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "collection": "Login Prototype",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "variableId": "VariableID:3314:6185",
+          "exportKey": "variables"
+        }
+      }
+    },
+    "passwordfilled": {
+      "type": "boolean",
+      "value": false,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "collection": "Login Prototype",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "variableId": "VariableID:3314:6186",
+          "exportKey": "variables"
+        }
+      }
+    },
+    "loginlocked": {
+      "type": "boolean",
+      "value": true,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "collection": "Login Prototype",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "variableId": "VariableID:3314:6187",
+          "exportKey": "variables"
+        }
+      }
+    },
+    "loginerror": {
+      "type": "boolean",
+      "value": false,
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "collection": "Login Prototype",
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "variableId": "VariableID:3314:6188",
+          "exportKey": "variables"
+        }
+      }
+    }
+  },
+  "typography": {
+    "h1": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 18
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 700
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 21.6
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "h2": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 16
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 600
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 19.2
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "h3": {
+      "description": "เนื้อหา",
+      "fontSize": {
+        "type": "dimension",
+        "value": 14
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 500
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 20
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "body-text": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 16
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 400
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 20
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "subheading": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 14
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 400
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 20
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "description": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 14
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 400
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 16.8
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "ปุ่ม": {
+      "fontSize": {
+        "type": "dimension",
+        "value": 16
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 500
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 19.2
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "body-medium": {
+      "description": "เนื้อหาที่ต้องการเน้น (ตาม Body ในเอกสาร DS)",
+      "fontSize": {
+        "type": "dimension",
+        "value": 16
+      },
+      "textDecoration": {
+        "type": "string",
+        "value": "none"
+      },
+      "fontFamily": {
+        "type": "string",
+        "value": "Lexend"
+      },
+      "fontWeight": {
+        "type": "number",
+        "value": 500
+      },
+      "fontStyle": {
+        "type": "string",
+        "value": "normal"
+      },
+      "fontStretch": {
+        "type": "string",
+        "value": "normal"
+      },
+      "letterSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "lineHeight": {
+        "type": "dimension",
+        "value": 19.2
+      },
+      "paragraphIndent": {
+        "type": "dimension",
+        "value": 0
+      },
+      "paragraphSpacing": {
+        "type": "dimension",
+        "value": 0
+      },
+      "textCase": {
+        "type": "string",
+        "value": "none"
+      }
+    },
+    "display": {
+      "20": {
+        "description": "หัวข้อบนแถบสีทอง, ข้อความเด่นในการ์ด",
+        "fontSize": {
+          "type": "dimension",
+          "value": 20
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 500
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 24
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "24": {
+        "description": "หัวข้อใหญ่ เช่น ตัวเลขสรุป, หัวข้อหน้าพิเศษ",
+        "fontSize": {
+          "type": "dimension",
+          "value": 24
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 600
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 28.8
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      }
+    },
+    "title": {
+      "16 bold": {
+        "description": "หัวข้อการ์ด/หัวตาราง แบบหนา",
+        "fontSize": {
+          "type": "dimension",
+          "value": 16
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 19.2
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      }
+    },
+    "label": {
+      "14 semibold": {
+        "description": "ป้ายกำกับ, หัวคอลัมน์",
+        "fontSize": {
+          "type": "dimension",
+          "value": 14
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 600
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 16.8
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "13 semibold": {
+        "description": "ป้ายกำกับขนาดเล็ก",
+        "fontSize": {
+          "type": "dimension",
+          "value": 13
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 600
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 15.6
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      }
+    },
+    "caption": {
+      "12 medium": {
+        "description": "คำอธิบายสั้น, แท็ก, ป้ายสถานะ",
+        "fontSize": {
+          "type": "dimension",
+          "value": 12
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 500
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 14.4
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "12 regular": {
+        "description": "ข้อความช่วยเหลือ, ข้อความแจ้งข้อผิดพลาดใต้ช่องกรอก",
+        "fontSize": {
+          "type": "dimension",
+          "value": 12
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 400
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 14.4
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      }
+    },
+    "small": {
+      "11 medium": {
+        "description": "ข้อมูลรองในตาราง",
+        "fontSize": {
+          "type": "dimension",
+          "value": 11
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 500
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 13.2
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "11 regular": {
+        "description": "ข้อมูลรองในตาราง แบบปกติ",
+        "fontSize": {
+          "type": "dimension",
+          "value": 11
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 400
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 13.2
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      }
+    },
+    "tiny": {
+      "10 medium": {
+        "description": "ป้ายใต้ไอคอน, วันที่ในปฏิทิน",
+        "fontSize": {
+          "type": "dimension",
+          "value": 10
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 500
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 12
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      },
+      "10 bold": {
+        "description": "ตัวเลข/ป้ายเล็กแบบหนา",
+        "fontSize": {
+          "type": "dimension",
+          "value": 10
+        },
+        "textDecoration": {
+          "type": "string",
+          "value": "none"
+        },
+        "fontFamily": {
+          "type": "string",
+          "value": "Lexend"
+        },
+        "fontWeight": {
+          "type": "number",
+          "value": 700
+        },
+        "fontStyle": {
+          "type": "string",
+          "value": "normal"
+        },
+        "fontStretch": {
+          "type": "string",
+          "value": "normal"
+        },
+        "letterSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "dimension",
+          "value": 12
+        },
+        "paragraphIndent": {
+          "type": "dimension",
+          "value": 0
+        },
+        "paragraphSpacing": {
+          "type": "dimension",
+          "value": 0
+        },
+        "textCase": {
+          "type": "string",
+          "value": "none"
+        }
+      }
+    }
+  }
+}
